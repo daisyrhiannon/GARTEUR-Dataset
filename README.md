@@ -12,7 +12,7 @@ The data to generate the surface was collected by Nathan Hinchliffe and James Tu
 The GARTEUR SM-AG19 benchmark structure was vibrated close to its first natural frequency (near 10 Hz), with a series of accelerometers placed along its starboard wing.
 
 
-## The Toybox Surface
+## The GARTEUR Surface
 
 See the surface below:
 
