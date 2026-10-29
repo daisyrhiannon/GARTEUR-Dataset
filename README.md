@@ -9,6 +9,7 @@ This repository contains the GARTEUR dataset that creates the GARTEUR Surface fr
 ## Data Origin 
 The data to generate the surface was collected by Nathan Hinchliffe and James Turner in the University of Sheffield dynamics laboratory.
 The GARTEUR SM-AG19 benchmark structure was vibrated close to its first natural frequency (near 10 Hz), with a series of accelerometers placed along its starboard wing.
+The accelerometers used to create the surface were placed 10 mm inboard from the wind tip - one 10 mm in from the trailing edge, one 10 mm in from the leading edge, and one on the centre line.
 
 ![The GARTEUR SM-AG19](GARTEUR_photo.jpg)
 
